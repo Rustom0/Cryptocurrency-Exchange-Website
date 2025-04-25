@@ -17,7 +17,7 @@ A simple web app that displays **real-time prices** of **Bitcoin (BTC)**, **Ethe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/Cryptocurrency-Exchange-Website.git
 
 2. Open index.html in your browser. No installation needed.
 
